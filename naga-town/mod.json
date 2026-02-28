@@ -21,6 +21,14 @@
 		"name" : "娜迦",
 		"description" : "新城镇娜迦族"
 	},
+	"english" : {
+		"name": "Naga Town",
+		"description": "Town with nagas",
+		"author": "Frodonh",
+		"translations": [
+			"config/naga/english.json"
+		]
+	},
 	"factions" : [
 		"config/naga/town.json"
 	],
