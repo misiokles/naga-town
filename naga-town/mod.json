@@ -5,22 +5,35 @@
 	"contact" : "东方秘境1群:1049463408",
 	"version" : "1.0.2",
 	"modType" : "Town",
-	"changelog" : {
-		"0.7" : [
-			"Initial release"
-		],
-		"1.0.2" : [
-			"Update for vcmi-1.7 format"
-		]
-	},
-	"compatibility" : {
-		"min" : "1.7.0"
-	},
-	"language" : "chinese",
+	"language" : "russian",
+	
 	"chinese" : {
 		"name" : "娜迦",
 		"description" : "新城镇娜迦族"
 	},
+
+	"english" : {
+		"name" : "Замок наг",
+		"description" : "New town - Naga Town",
+		"translations" : [
+			"config/naga/english.json"
+		]
+	},
+	
+	"russian" : {
+		"name" : "Нага замок",
+		"description" : "Новый замок - Город Наг",
+		"translations" : [
+			"Translation/naga/russian.json"
+		]
+	},
+	
+	
+
+
+
+
+
 	"factions" : [
 		"config/naga/town.json"
 	],
