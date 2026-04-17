@@ -6,7 +6,7 @@
 	"version" : "1.0.2",
 	"modType" : "Town",
 	"language" : "russian",
-	
+
 	"chinese" : {
 		"name" : "娜迦",
 		"description" : "新城镇娜迦族"
@@ -19,7 +19,7 @@
 			"config/naga/english.json"
 		]
 	},
-	
+
 	"russian" : {
 		"name" : "Нага замок",
 		"description" : "Новый замок - Город Наг",
@@ -27,12 +27,6 @@
 			"Translation/naga/russian.json"
 		]
 	},
-	
-	
-
-
-
-
 
 	"factions" : [
 		"config/naga/town.json"
